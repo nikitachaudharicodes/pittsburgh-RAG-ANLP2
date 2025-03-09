@@ -1,0 +1,7 @@
+pdfplumber
+requests
+bs4
+markdownify
+pandas
+selenium
+webdriver-manager

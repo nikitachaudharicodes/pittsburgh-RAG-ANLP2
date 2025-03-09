@@ -1,0 +1,6 @@
+venv/
+.DS_Store
+symphony.py
+symphony-requests.py
+pittsburgh_symphony.html
+
