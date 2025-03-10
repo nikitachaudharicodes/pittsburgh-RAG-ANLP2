@@ -5,3 +5,5 @@ markdownify
 pandas
 selenium
 webdriver-manager
+ipykernel
+matplotlib
